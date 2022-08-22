@@ -21,7 +21,8 @@ The following project is realtime live chat web app
       in client.js to so made script and mentioned to load client library.After setting up socket.io we need mention logic of it in client.js  by creating name var
       iable basically giving user name in every server .After it just used callback function to ensure that name writing.creayed html markup in client.js 
       in main div then append.also for reciving message in client.js so that it will recive message sent.So this was abount setting up real time chat web app 
-      where two and more can chat at same time.For text editing feature i directly used ckeditor by basically writing index.html file and then using 
+      where two and more can chat at same time.master repository contain reatime cat app while text editor repository kept as branch due to below mentioned reasons
+      For text editing feature i directly used ckeditor by basically writing index.html file and then using 
       already available ckeditor.js file.The text editing feature has been not kept seperatly as its files were defaults and also other
       server setup and creating live chat app files has been written from scrath and taking some help from different documentations.
       
